@@ -3,7 +3,7 @@
 ```Let's get this straight```
 
 #### Content - 
-* [DSA breakdown](Data Structures)
+* [DSA breakdown](#data-structures)
 * Interview Guide
 * Miscellaneous
 
