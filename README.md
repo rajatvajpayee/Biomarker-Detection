@@ -21,3 +21,9 @@ Run the below command to train the classifier -
 ```@python
 python compiled.py -f FILE_PATH -n ITERATIONS -s SAMPLE_SIZE -clf CLASSIFIER
 ```
+
+
+Problem | Concept | Difficulty
+--------|----------|---------
+[Two-sum Problem](https://leetcode.com/problems/two-sum/_) | Sliding Window | Easy
+asfddsa | asfsadf | Medium
