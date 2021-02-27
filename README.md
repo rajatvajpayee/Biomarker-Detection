@@ -18,10 +18,10 @@ pip install -r requirements.txt
 ## How to use
 Run the below command to train the classifier - 
 ```@python
-python compiled.py -f DATA_PATH -n ITERATIONS -s SAMPLE_SIZE -clf CLASSIFIER
+python src/compiled.py -f DATA_PATH -n ITERATIONS -s SAMPLE_SIZE -clf CLASSIFIER
 ```
 
 To implement paper model, run the below command - 
 ```@python
-python paper_implementation.py
+python src/paper_implementation.py
 ``` 
