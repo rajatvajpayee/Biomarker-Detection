@@ -1,5 +1,4 @@
 # Project - Statistical analysis for discovering biomarkers
-### Course : BT5450 - Data-driven Modeling and Optimization of Bioprocesses
 
 ## Project Overview
 The objective of this work is to analyse proteomics data for discovering biomarkers. The data is available in .mat format. The objective of this work is to reproduce  the work in the publication using python and other classification approaches. 
